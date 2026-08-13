@@ -5,7 +5,7 @@
 
   <table>
     <tr>
-      <td width="42%" valign="top">
+      <td width="42%" valign="middle">
         <picture>
           <source
             media="(prefers-color-scheme: light)"
@@ -17,7 +17,7 @@
             alt="zerotw0016 portrait"
           />
         </picture>
-	  </td>
+      </td>
 
 ```text
 -> BOOT SEQUENCE INITIATED...
@@ -49,9 +49,6 @@ LEARNING................: Assembly
 
 -> process complete
 ```
-
-  </td>
-    </tr>
   </table>
 
   <p>
