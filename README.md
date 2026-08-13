@@ -5,7 +5,7 @@
 
   <table>
     <tr>
-      <td width="42%" valign="middle">
+      <td>
         <picture>
           <source
             media="(prefers-color-scheme: light)"
@@ -13,42 +13,74 @@
           />
           <img
             src="https://www.gitskins.com/api/section/portrait?username=zerotw0016&theme=aurora&style=terminal&mode=dark"
-            width="100%"
             alt="zerotw0016 portrait"
           />
         </picture>
       </td>
 
-```text
--> BOOT SEQUENCE INITIATED...
+      <td>
+        <p>
+          <code>&gt; BOOT SEQUENCE INITIATED...</code>
+        </p>
 
-[ OK ] Loading kernel modules...
-[ OK ] Mounting /user/profile
-[ OK ] Initializing services...
-[ OK ] Fetching identity payload...
-[ OK ] Connection to SYSNODE_013 established
+        <p>
+          <code>[ OK ] Loading kernel modules...</code><br/>
+          <code>[ OK ] Mounting /user/profile</code><br/>
+          <code>[ OK ] Initializing services...</code><br/>
+          <code>[ OK ] Fetching identity payload...</code><br/>
+          <code>[ OK ] Connection to SYSNODE_013 established</code>
+        </p>
 
+        <p>
+          <code>&gt; ./whoami --details</code>
+        </p>
 
--> ./whoami --details
+        <h4><code>[ SYSTEM.LOG :: USER.INFO ]</code></h4>
+        
+        <table>
+          <tr>
+            <td align="right"><code>AGE</code></td>
+            <td><code>18+</code></td>
+          </tr>
+          <tr>
+            <td align="right"><code>ROLE</code></td>
+            <td><code>IT Operative</code></td>
+          </tr>
+          <tr>
+            <td align="right"><code>IDENTITY</code></td>
+            <td><code>Genderfluid (AMAB)</code></td>
+          </tr>
+          <tr>
+            <td align="right"><code>ORIENTATION</code></td>
+            <td><code>Bisexual</code></td>
+          </tr>
+          
+          <tr>
+            <td colspan="2"></td>
+          </tr>
+          
+          <tr>
+            <td colspan="2"><h4><code>[ SYSTEM.LOG :: TECH.STACK ]</code></h4></td>
+          </tr>
+          <tr>
+            <td align="right"><code>LANGS</code></td>
+            <td><code>C#, C++, Java, Python</code></td>
+          </tr>
+          <tr>
+            <td align="right"><code>SCRIPT</code></td>
+            <td><code>PowerShell, JavaScript, HTML, PHP</code></td>
+          </tr>
+          <tr>
+            <td align="right"><code>LEARNING</code></td>
+            <td><code>Assembly</code></td>
+          </tr>
+        </table>
 
-
-[ SYSTEM.LOG :: USER.INFO ]
-
-AGE.....................: 18+
-ROLE....................: IT Operative
-IDENTITY................: Genderfluid (AMAB)
-ORIENTATION.............: Bisexual
-
-
-[ SYSTEM.LOG :: TECH.STACK ]
-
-LANGS...................: C#, C++, Java, Python
-SCRIPT..................: PowerShell, JavaScript, HTML, PHP
-LEARNING................: Assembly
-
-
--> process complete
-```
+        <p>
+          <code>&gt; process complete</code>
+        </p>
+      </td>
+    </tr>
   </table>
 
   <p>
@@ -66,8 +98,6 @@ LEARNING................: Assembly
       />
     </a>
   </p>
-
-  <br><br>
 </div>
 
 <div align="center">
@@ -82,7 +112,6 @@ LEARNING................: Assembly
     />
     <img
       src="https://www.gitskins.com/api/section/heatmap?username=zerotw0016&theme=aurora&style=terminal&mode=dark"
-      width="100%"
       alt="zerotw0016 contribution heatmap"
     />
   </picture>
